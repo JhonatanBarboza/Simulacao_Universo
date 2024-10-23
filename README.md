@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto de simulação de um **Sistema Planetário** desenvolvido em **C++** com renderização gráfica utilizando **OpenGL** e **GLUT**. A simulação demonstra o movimento de planetas orbitando uma estrela, considerando forças gravitacionais para calcular as órbitas e a dinâmica dos corpos.
 
+## Simulação
+
+![solar](https://github.com/user-attachments/assets/d3246df5-2b23-4817-97ee-f1719f7a5a23)
+
 ## Funcionalidades
 
 - **Sistema de Gravidade:** Implementação da constante gravitacional para calcular a atração entre uma estrela central e os planetas.
