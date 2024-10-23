@@ -1,10 +1,6 @@
 # Simulações Espaciais com C++ e OpenGL: Sistema Solar e Galáxias
 
-Este repositório apresenta projetos de simulação interativa de um **Sistema Solar** e de **Galáxias**, desenvolvidos em **C++** utilizando a poderosa biblioteca gráfica **OpenGL**. Mergulhe em visualizações dinâmicas que retratam o fascinante comportamento dos corpos celestes, oferecendo uma perspectiva visual rica sobre a física espacial e os princípios da computação gráfica.
-
-## Sobre os Projetos
-
-Estas simulações proporcionam uma experiência imersiva, permitindo observar a interação gravitacional entre planetas, estrelas e outros objetos cósmicos. Cada projeto foi projetado para capturar com fidelidade os movimentos e padrões naturais que ocorrem em escalas astronômicas, dando vida a conceitos físicos complexos de uma maneira visualmente atraente.
+Este repositório apresenta simulações que oferecem uma experiência imersiva, permitindo visualizar de perto a interação gravitacional entre planetas, estrelas e outros corpos celestes. Cada projeto foi cuidadosamente desenvolvido para reproduzir com precisão os movimentos e padrões naturais que ocorrem em escalas astronômicas, transformando conceitos físicos em representações visuais fascinantes e acessíveis.
 
 ## Projeto 1 
 
