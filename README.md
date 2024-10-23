@@ -6,7 +6,7 @@ Este repositório apresenta simulações que oferecem uma experiência imersiva,
 
 A simulação demonstra o movimento de planetas orbitando uma estrela, considerando forças gravitacionais para calcular as órbitas e a dinâmica dos corpos.
 
-![solar](https://github.com/user-attachments/assets/d3246df5-2b23-4817-97ee-f1719f7a5a23)
+[solar2.webm](https://github.com/user-attachments/assets/618fc771-03be-4251-a562-c229639ef6d4)
 
 
 ## Tecnologias Utilizadas
