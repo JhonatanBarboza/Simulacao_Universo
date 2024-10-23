@@ -18,9 +18,7 @@ Esta simulação reproduz o comportamento de uma galáxia, com centenas de estre
 
 Nesta simulação, duas estrelas massivas orbitam uma à outra no centro de uma galáxia, criando um sistema binário dinâmico. Ao redor delas, **100.000 planetas** seguem trajetórias complexas influenciadas pela gravidade combinada das estrelas centrais. A simulação recria o movimento orbital desses planetas, proporcionando uma visão envolvente de um sistema galáctico binário em escala épica. A interação gravitacional entre as estrelas e os planetas gera padrões intrigantes de órbitas, imitando a dinâmica real de sistemas binários e seus arredores cósmicos.
 
-
-![galaxia](https://github.com/user-attachments/assets/b07d6e6a-b890-490b-818b-36d1761ac2c7)
-
+![2estrelas](https://github.com/user-attachments/assets/0123ae2b-71a1-4f75-97d8-c218ade493eb)
 
 ## Tecnologias Utilizadas
 
