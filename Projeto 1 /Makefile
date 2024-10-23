@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = planeta
+TARGET = solar
 
 # Compilador e flags
 CC = g++
@@ -9,7 +9,7 @@ CFLAGS = -Wall -g
 LIBS = -lGLEW -lGL -lGLU -lglut
 
 # Arquivos fonte
-SRCS = planeta.cpp
+SRCS = solar.cpp
 
 # Arquivos objeto
 OBJS = $(SRCS:.cpp=.o)
