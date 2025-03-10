@@ -1,5 +1,5 @@
 # Nome do executável
-TARGET = planeta
+TARGET = galaxia
 
 # Compilador e flags
 CC = g++
